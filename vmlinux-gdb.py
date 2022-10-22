@@ -1,0 +1,1 @@
+/home/outmane/Downloads/linux-5.4.219/scripts/gdb/vmlinux-gdb.py
